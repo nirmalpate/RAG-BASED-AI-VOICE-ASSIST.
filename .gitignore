@@ -1,0 +1,6 @@
+private.key
+*.key
+.env
+data/
+__pycache__/
+*.zip
